@@ -1,0 +1,20 @@
+
+.bx {
+    font-size: 70px;
+}
+
+.bold {
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+.part {
+    text-align: center; 
+}
